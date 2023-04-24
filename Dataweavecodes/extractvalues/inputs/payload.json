@@ -1,0 +1,16 @@
+{
+    "firstName":"Pavan",
+    "lastName":"Karumanchi",
+    "age":23,
+    "role":"dev",
+    "address":[
+        {
+            "mailCity":"GUNTUR"
+        }
+    ],
+        "perminentaddress":[
+        {
+            "mailCity":"VIJAYAWADA"
+        }
+    ]
+}
