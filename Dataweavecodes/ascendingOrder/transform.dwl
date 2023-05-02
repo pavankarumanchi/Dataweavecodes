@@ -1,5 +1,5 @@
 %dw 2.0
-output application/json 
+output application/xml
 ---
  MotorHistoricPerformance: {((payload.motorHistoricPerformance orderBy $.periodStart) 
  map ({
