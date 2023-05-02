@@ -1,0 +1,16 @@
+{
+  "motorHistoricPerformance": [
+    {
+      "periodStart": "2020-01-01",
+      "periodEnd": "2021-01-01"
+    },
+    {
+      "periodStart": "2018-01-01",
+      "periodEnd": "2019-01-01"
+    },
+    {
+      "periodStart": "2019-01-01",
+      "periodEnd": "2020-01-01"
+    }
+  ]
+}
