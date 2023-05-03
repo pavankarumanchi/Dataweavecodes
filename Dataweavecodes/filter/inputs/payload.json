@@ -1,0 +1,69 @@
+<Output>
+  <Item>
+    <Field name="Type" value="0"/>
+    <Field name="Employee" value="10247913"/>
+    <Field name="EmployeeName" value="A, R"/>
+    <Field name="DateBelong" value="2022-06-15T00:00:00.0000000"/>
+    <Field name="ID" value="Shift"/>
+    <Field name="Value" value="SS"/>
+    <Field name="DateBelongDayStart" value="2022-06-15T06:00:00.0000000"/>
+    <Field name="Start" value="2022-06-15T14:00:00.0000000"/>
+    <Field name="End" value="2022-06-15T18:00:00.0000000"/>
+    <Field name="Duration" value="240"/>
+    <jobs>
+      <job>
+        <Field name="ID" value=""/>
+        <Field name="Value" value="Other"/>
+      </job>
+      <job>
+        <Field name="ID" value=""/>
+        <Field name="Value" value="Non-Proportional"/>
+      </job>
+      <job>
+        <Field name="ID" value=""/>
+        <Field name="Value" value="No"/>
+      </job>
+      <job>
+        <Field name="ID" value="Job"/>
+        <Field name="Value" value="GS"/>
+      </job>
+    </jobs>
+    <Shifts>
+      <Shift/>
+    </Shifts>
+  </Item>
+  <Item>
+    <Field name="Type" value="0"/>
+    <Field name="Employee" value="10247913"/>
+    <Field name="EmployeeName" value="A, R"/>
+    <Field name="DateBelong" value="2022-06-15T00:00:00.0000000"/>
+    <Field name="DateBelongDayStart" value="2022-06-15T06:00:00.0000000"/>
+    <Field name="Start" value="2022-06-15T18:00:00.0000000"/>
+    <Field name="End" value="2022-06-15T22:00:00.0000000"/>
+    <Field name="Duration" value="240"/>
+    <jobs>
+      <job>
+        <Field name="ID" value=""/>
+        <Field name="Value" value="Other"/>
+      </job>
+      <job>
+        <Field name="ID" value=""/>
+        <Field name="Value" value="Non-Proportional"/>
+      </job>
+      <job>
+        <Field name="ID" value=""/>
+        <Field name="Value" value="No"/>
+      </job>
+      <job>
+        <Field name="ID" value="Job"/>
+        <Field name="Value" value="GS"/>
+      </job>
+    </jobs>
+    <Shifts>
+      <Shift>
+        <Field name="ID" value="Shift"/>
+        <Field name="Value" value="S2"/>
+      </Shift>
+    </Shifts>
+  </Item>
+</Output>
