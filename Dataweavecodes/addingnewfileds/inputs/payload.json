@@ -1,0 +1,57 @@
+[{
+
+"Order Status": "Completed",
+
+"sales":456,
+
+"Tax": 67,
+
+"Order Date / Refund date": "2020-08-03T00:00:00",
+
+"gratuity":48
+
+},
+
+{
+
+"Order Status": "Refund",
+
+"sales":56,
+
+"Tax": 57,
+
+"Order Date / Refund date": "2020-08-03T00:00:00",
+
+"gratuity":78
+
+},
+
+{
+
+"Order Status": "unfullfilled",
+
+"sales":56,
+
+"Tax": 7,
+
+"Order Date / Refund date": "2020-08-03T00:00:00",
+
+"gratuity":58
+
+},
+
+{
+
+"Order Status": "unfullfilled",
+
+"sales":426,
+
+"Tax": 27,
+
+"Order Date / Refund date": "2020-08-03T00:00:00",
+
+"gratuity":45
+
+}
+
+]
