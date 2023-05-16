@@ -1,0 +1,19 @@
+[
+  {
+    "employeeAddress": [
+      {
+        "zip": "32335",
+        "type": "House",
+        "Address": "Secondary Address 1"
+      },
+      {
+        "zip": "32456",
+        "type": "House",
+        "Address": "Secondary Address 2"
+      }
+    ],
+    "zip": "26505",
+    "type": "House",
+    "Address": "Primary Address"
+  }
+]
