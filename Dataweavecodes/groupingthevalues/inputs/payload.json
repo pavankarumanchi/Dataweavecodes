@@ -1,0 +1,92 @@
+[
+  {
+    "metric": "http_responses",
+    "points": [
+      [
+        1669161480,
+        3
+      ]
+    ],
+    "host": "ip-99-99-99-235",
+    "tags": [
+      "availability_zone:us-west-2c",
+      "deployment:blue",
+      "status:200"
+    ]
+  },
+  {
+    "metric": "http_responses",
+    "points": [
+      [
+        1669161480,
+        3
+      ]
+    ],
+    "host": "ip-99-99-99-235",
+    "tags": [
+      "availability_zone:us-west-2c",
+      "deployment:blue",
+      "status:200"
+    ]
+  },
+  {
+    "metric": "http_responses",
+    "points": [
+      [
+        1669161480,
+        4
+      ]
+    ],
+    "host": "ip-99-99-99-235",
+    "tags": [
+      "availability_zone:us-west-2c",
+      "deployment:blue",
+      "status:200"
+    ]
+  },
+  {
+    "metric": "http_responses",
+    "points": [
+      [
+        1669161481,
+        1
+      ]
+    ],
+    "host": "ip-99-99-99-236",
+    "tags": [
+      "availability_zone:us-west-2c",
+      "deployment:blue",
+      "status:200"
+    ]
+  },
+  {
+    "metric": "http_responses",
+    "points": [
+      [
+        1669161481,
+        2
+      ]
+    ],
+    "host": "ip-99-99-99-236",
+    "tags": [
+      "availability_zone:us-west-2c",
+      "deployment:blue",
+      "status:200"
+    ]
+  },
+  {
+    "metric": "http_responses",
+    "points": [
+      [
+        1669161482,
+        2
+      ]
+    ],
+    "host": "ip-99-99-99-237",
+    "tags": [
+      "availability_zone:us-west-2c",
+      "deployment:blue",
+      "status:200"
+    ]
+  }
+]
