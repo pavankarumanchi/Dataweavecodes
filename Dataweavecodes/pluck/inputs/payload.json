@@ -1,0 +1,15 @@
+{
+"attributes" : {
+        "headers": [{
+            "x-forwarded-for": "10.55.88.20",
+            "x-forwarded-proto": "https",
+            "x-forwarded-port": "443",
+            "host": "api-dev.syngenta.org",
+            "x-amzn-trace-id": "Root=1-61eadcb8-0ef1a9c061cfde282d999067",
+            "user-agent": "PostmanRuntime/7.28.4",
+            "accept": "*/*",
+            "postman-token": "50870e6a-4fa2-4760-8351-56a0a1e66c07",
+            "accept-encoding": "gzip, deflate, br"
+        }]
+}
+}
