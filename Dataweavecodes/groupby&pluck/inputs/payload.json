@@ -1,0 +1,26 @@
+{
+  "id": 1,
+  "currency-code": "EUR",
+  "invoice-lines": [
+    {
+      "id": 29830,
+      "total": "2135.79",
+      "quantity": "171",
+      "po-number": "4300001247",
+      "order-line-num": "1",
+      "accounting-total": 2135,
+      "amount-tva": "427.1615625",
+      "doc-article-reception": "5000114923"
+    },
+    {
+      "id": 29830,
+      "total": "262.29",
+      "quantity": "21",
+      "po-number": "4300001247",
+      "order-line-num": "1",
+      "accounting-total": 262,
+      "amount-tva": "52.4584375",
+      "doc-article-reception": "5000114923"
+    }
+  ]
+}
