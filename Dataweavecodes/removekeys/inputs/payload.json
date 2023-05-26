@@ -1,0 +1,44 @@
+[
+  {
+    "TABNAM": "EDI_DC40",
+    "DOCNUM": "0004711",
+    "IDOCTYP": "ORDERS01",
+    "IDOC1DOCNUM": "4701",
+    "IDOC1SNDPRN": "1",
+    "IDOC1BSART": "FALSE",
+    "IDOC2DOCNUM": "4702",
+    "IDOC2SNDPRN": "2",
+    "IDOC2BSART": "",
+    "IDOC3DOCNUM": "4703",
+    "IDOC3SNDPRN": "3",
+    "IDOC3BSART": "TRUE"
+  },
+  {
+    "TABNAM": "EDI_DC40",
+    "DOCNUM": "0004729",
+    "IDOCTYP": "ORDERS05",
+    "IDOC4DOCNUM": "4704",
+    "IDOC4SNDPRN": "",
+    "IDOC4BSART": "FALSE",
+    "IDOC5DOCNUM": "4705",
+    "IDOC5SNDPRN": "5",
+    "IDOC5BSART": "TRUE",
+    "IDOC6DOCNUM": "4706",
+    "IDOC6SNDPRN": "6",
+    "IDOC6BSART": "TRUE"
+  },
+  {
+    "TABNAM": "EDI_DC40",
+    "DOCNUM": "0004756",
+    "IDOCTYP": "ORDERS60",
+    "IDOC7DOCNUM": null,
+    "IDOC7SNDPRN": null,
+    "IDOC7BSART": null,
+    "IDOC8DOCNUM": null,
+    "IDOC8SNDPRN": null,
+    "IDOC8BSART": null,
+    "IDOC9DOCNUM": "4709",
+    "IDOC9SNDPRN": "9",
+    "IDOC9BSART": "TRUE"
+  }
+]
