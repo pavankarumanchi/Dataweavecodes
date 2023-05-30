@@ -3,7 +3,7 @@ output application/json
 ---
 payload flatMap ((firstitem, firstindex) -> (1 to firstitem."DaysBetween")
 map ({
-    "TENANTUNIQUENAME": firstitem."TENANTUNIQUENAME",
+    "NAME": firstitem."NAME",
     "LAST_UPDATE": firstitem."LAST_UPDATE"
 })
 )
