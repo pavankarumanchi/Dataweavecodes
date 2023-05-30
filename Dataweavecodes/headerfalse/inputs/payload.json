@@ -1,0 +1,11 @@
+<adf>
+ <prospect>
+  <customer>
+   <contact>
+    <name part="full">W Woods</name>
+    <name part="first">W</name>
+    <name part="last">Woods</name>
+   </contact>
+  </customer>
+ </prospect>
+</adf>
