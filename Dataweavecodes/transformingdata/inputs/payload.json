@@ -1,0 +1,23 @@
+[
+  {
+    "FieldName": "0 ",
+    "Security_Group": "a",
+    "Application": [
+      {
+        "App_Name": "ADP"
+      },
+      {
+        "App_Name": "My Learning"
+      }
+    ]
+  },
+  {
+    "FieldName": "15",
+    "Security_Group": "b;c",
+    "Application": [
+      {
+        "App_Name": "My Learning"
+      }
+    ]
+  }
+]
