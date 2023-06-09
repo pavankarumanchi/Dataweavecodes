@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "John Smith",
+        "Address": "123 Elm",
+        "State": "TX",
+        "ZIP": 79101
+    },
+    {
+        "Name": "Eric Smith",
+        "Address": "123 Elm",
+        "State": "TX"
+    },
+    {
+        "Name": "Alice Smith",
+        "Address": "123 Elm",
+        "ZIP": 79101
+    }
+]
