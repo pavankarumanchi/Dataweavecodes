@@ -1,0 +1,28 @@
+{
+  "Tasks": [
+    {
+      "UID": 1,
+      "DateOfWork": "08122021",
+      "Employee": "586",
+      "WorkerType": 1,
+      "WorkType": 1,
+      "MoveTagCopies": 1
+    },
+    {
+      "UID": 2,
+      "DateOfWork": "08122022",
+      "Employee": "587",
+      "WorkerType": 1,
+      "WorkType": 1,
+      "MoveTagCopies": 2
+    },
+    {
+      "UID": 3,
+      "DateOfWork": "08122023",
+      "Employee": "589",
+      "WorkerType": 1,
+      "WorkType": 1,
+      "MoveTagCopies": 0
+    }
+  ]
+}
