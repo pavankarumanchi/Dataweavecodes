@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<test>
+  <changes>
+    <ID changed="true">3</ID>
+    <Surname changed="true">TestLastname3</Surname>
+    <Firstname changed="true">TesterFistname3</Firstname>
+    <Postaddress changed="false">TestCity3</Postaddress>
+  </changes>
+</test>
