@@ -1,0 +1,27 @@
+{
+  "header": {
+    "apiName": "Payroll_api",
+    "apiVersion": "v1.0",
+    "correlationId": "abc"
+  },
+  "data": {
+    "xxnr_data_group_out_tb": [
+      [
+        "Home Labor Category 1-2",
+        "Home Cost Center-1"
+      ],
+      [
+        "Home Labor Category 1-1",
+        "Home Cost Center-2"
+      ],
+      [
+        "Home Labor Category 1-2",
+        "Home Cost Center-2"
+      ],
+      [
+        "Home Labor Category 1-1",
+        "Home Cost Center-1"
+      ]
+    ]
+  }
+}
