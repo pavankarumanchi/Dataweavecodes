@@ -1,0 +1,38 @@
+{
+  "ORDERS": [
+    {
+      "STATUS": "    001AB-IN PROGRESS",
+      "CODE": "B",
+      "CODE_CUST": "109",
+      "NOTE_1": " NGT",
+      "NOTE_2": "",
+      "NOTE_3": "",
+      "DOC_NO": "0",
+      "DOC_SIGN": "Y",
+      "PRICE": "         90000",
+      "UT_1": " HITK",
+      "UT_2": " NDD",
+      "DATE": "09/06/2023",
+      "DESC": "         NO",
+      "LOC": " 13900",
+      "QTY": " 9"
+    },
+    {
+      "STATUS": "    001AA-COMPLETE",
+      "CODE": "B",
+      "CODE_CUST": "109",
+      "NOTE_1": " NGT",
+      "NOTE_2": "",
+      "NOTE_3": "",
+      "DOC_NO": "1",
+      "DOC_SIGN": "Y",
+      "PRICE": "         9500",
+      "UT_1": " HITK",
+      "UT_2": " NDD",
+      "DATE": "09/06/2023",
+      "DESC": "         NO",
+      "LOC": " 13900",
+      "QTY": " 7"
+    }
+  ]
+}
