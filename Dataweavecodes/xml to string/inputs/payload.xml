@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Zoomit>
+  <Header>
+    <Version>2.1.0</Version>
+  </Header>
+  <DocRefs>
+    <DocRef>
+      <SenderContractNumber>89000006201IN</SenderContractNumber>
+      <CustomerId>14001139/1</CustomerId>
+      <DocumentId>2023051533913479</DocumentId>
+      <SenderAccount>89000006201IN</SenderAccount>
+      <DocumentDate>2023-05-15</DocumentDate>
+      <Amount/>
+      <Currency>EUR</Currency>
+      <CommunicationStructured>3623433380</CommunicationStructured>
+      <RecipientAccount/>
+      <DirectDebitNumber/>
+      <MemoDate>2023-05-15</MemoDate>
+      <DueDate>2023-05-15</DueDate>
+      <DocumentType>INVOICE</DocumentType>
+      <FirstName/>
+      <LastName/>
+      <DocumentAccessCode>ZZCU-DNZM-CYYZ</DocumentAccessCode>
+      <DocumentTitle>ARAG avis d'échéance 14001139</DocumentTitle>
+      <LanguageCode>French</LanguageCode>
+      <DocumentFileName>Invoice-180022293-20230516.pdf</DocumentFileName>
+      <DeliveryChannel>ZOOMIT</DeliveryChannel>
+    </DocRef>
+  </DocRefs>
+</Zoomit>
