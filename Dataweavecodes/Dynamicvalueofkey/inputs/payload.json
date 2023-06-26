@@ -1,0 +1,10 @@
+[
+{
+"Source": " customerName",
+"destination": " customer "
+},
+{
+"Source": " customerAddress",
+"destination": " address"
+}
+]
