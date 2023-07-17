@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Customer>
+  <Firstname>jan</Firstname>
+  <email>myemail@id.com</email>
+  <users>
+    <user>
+      <username>Julian</username>
+      <password>1234</password>
+    </user>
+    <user>
+      <username>Mariano</username>
+      <password>4321</password>
+    </user>
+  </users>
+  <Details>
+    <id>123</id>
+    <name>me</name>
+  </Details>
+</Customer>
