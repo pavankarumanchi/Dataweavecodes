@@ -1,0 +1,37 @@
+[
+  {
+    "countHouses": 1,
+    "Name": "Bob",
+    "Unique_ID": "12345"
+  },
+  {
+    "countFlats": 4,
+    "Name": "Bob",
+    "Unique_ID": "12345"
+  },
+  {
+    "countStadiums": 5,
+    "Name": "Efac",
+    "Unique_ID": "31124"
+  },
+  {
+    "countStadiums": 1,
+    "Name": "Bob",
+    "Unique_ID": "12345"
+  },
+  {
+    "countFlats": 1,
+    "Name": "Efac",
+    "Unique_ID": "31124"
+  },
+  {
+    "countHouses": 245,
+    "Name": "Efac",
+    "Unique_ID": "31124"
+  },
+  {
+    "countHouses": 300,
+    "Name": "Pox",
+    "Unique_ID": "18110"
+  }
+]
